@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=🙌Hello,%20orongee🙌&fontSize=36&reversal=tru&animation=twinkling&descAlignY=80&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=🙌Hello,%20orongee🙌&fontSize=36&reversal=true&animation=twinkling&&fontColor=fff)
 
 I'm Front-End developer for 2 years. I'm interested in developing a interactive web site. 😉
 
 - 🌱 currently learning React & Typescript
-- ✍ blogging in [Velog](https://velog.io/@j35148) / [TIL](https://orongee-til.netlify.app/#/)
+- ✍ blogging on [Velog](https://velog.io/@j35148) / [TIL](https://orongee-til.netlify.app/#/)
